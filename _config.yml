@@ -7,12 +7,12 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'S4NY'
+description: "test"
 
 short_url: 'S4NY.github.io'
 google_analytics: UA-69281367-1
-disqus: username
+disqus: S4NY
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: ''
 
@@ -45,13 +45,13 @@ plugins: [jekyll-paginate]
 # or "master" otherwise
 safe: false
 lsi: false
-username: jekyller
-repo: jasper
-branch: master
+username: S4NY
+repo: S4NY.github.io/
+branch: source
 relative_source: ../jasper/
 destination: ../jasper-pages/
-production_url:  https://jekyller.github.io/jasper/
-source_url:  https://github.com/jekyller/jasper/
+production_url:  https://S4NY.github.io/
+source_url:  https://github.com/S4NY/S4NY.github.io//
 
 exclude:
   - README.md
