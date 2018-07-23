@@ -38,3 +38,11 @@ martin:
   url: jekyller.github.io/jasper
   bio: An American pastor, activist, humanitarian. People know me for leading the African-American Civil Rights movement using nonviolent civil disobedience.
   assets: assets/images/martin.jpg
+martin:
+  username: sanny
+  name: sanny
+  location: Republic of Korea
+  url_full: http://S4NY.github.io/
+  url: S4NY.github.io/
+  bio: test
+  assets: assets/images/martin.jpg
